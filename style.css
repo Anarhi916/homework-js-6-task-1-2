@@ -1,0 +1,17 @@
+.block_1{
+	width: 600px;
+	height: 200px;
+	border: 2px solid black;
+	margin: 20px auto;
+
+}
+ p{
+ 	text-align: center;
+ }
+
+ .block_1__task_2{
+ 	background-image: url(images/close.png);
+ 	background-position: center;
+ 	background-repeat: no-repeat;
+
+ }
